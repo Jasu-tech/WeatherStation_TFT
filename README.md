@@ -2,8 +2,7 @@
 
 A full-stack web application for building and managing ESP8266-based weather stations with ST7735 TFT displays.
 
-![TFT](https://github.com/user-attachments/assets/6cc8f495-3afc-4c9f-ac41-898250723f30)
-
+![TFT-2](https://github.com/user-attachments/assets/0bae2105-4e3c-48fb-8030-db525431e8e6)
 
 ## Features
 
