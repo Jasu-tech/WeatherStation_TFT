@@ -1,7 +1,8 @@
 # ESP8266 Weather Station (c) Jasu-tech / MIT 2026
 
 A full-stack web application for building and managing ESP8266-based weather stations with ST7735 TFT displays.
-![TFT](https://github.com/user-attachments/assets/85325ae6-aa77-4140-9eed-dd03e767f751)
+
+![TFT](https://github.com/user-attachments/assets/6cc8f495-3afc-4c9f-ac41-898250723f30)
 
 
 ## Features
